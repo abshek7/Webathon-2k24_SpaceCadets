@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Webathon-2k24_SpaceCadets/static/css/main.e6c13ad2.css",
+    "main.js": "/Webathon-2k24_SpaceCadets/static/js/main.90b73c3e.js",
+    "static/js/453.89870009.chunk.js": "/Webathon-2k24_SpaceCadets/static/js/453.89870009.chunk.js",
+    "index.html": "/Webathon-2k24_SpaceCadets/index.html",
+    "main.e6c13ad2.css.map": "/Webathon-2k24_SpaceCadets/static/css/main.e6c13ad2.css.map",
+    "main.90b73c3e.js.map": "/Webathon-2k24_SpaceCadets/static/js/main.90b73c3e.js.map",
+    "453.89870009.chunk.js.map": "/Webathon-2k24_SpaceCadets/static/js/453.89870009.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.90b73c3e.js"
+  ]
+}
